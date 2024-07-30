@@ -1,0 +1,20 @@
+1.
+     a)  -Data structures help in organizing and storing large amounts of data in such a way so that we can access them easily when required.
+         -A well-designed system can handle increasing amounts of data without a proportional increase in resource consumption.
+
+     b) -ArrayList: Used for storing ordered list of products.
+        -HashMap: Provides key-value pairs.It will help to find any products based on product ID.
+        -Binary Search Tree: takes care of sorted lists of products,allowing O(log n) time complexity for search,insert and delete.
+
+4.
+
+     a) Add Product- O(1) due to put operation in  hash map.
+        Update Product- O(1) due to put operation in hash map.
+        Delete Product- O(1) using remove operation has average time complexity of O(1).
+     
+
+
+     b) We can Optimize the Operation by:
+           -Caching mechanism
+           -Load balancing
+     
