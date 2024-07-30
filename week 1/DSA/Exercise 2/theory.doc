@@ -1,0 +1,13 @@
+1.
+  a) -Big O notation is used to describe the upper bound of an algorithm's running time or space in worst case.
+
+     -it helps in analyzing algorithm's efficiency and scalability.it also helps us to compare diffrent algorithms and choose the most efficient amongst them.
+
+  b) -Best case :-  The case where the algorithm performs the fewest operations. For search operations this  means finding the target element at the first position.
+     
+    -Average Case:- The case representing the expected running time of an algorithm over certain inputs.
+
+    -Worst case :-  The scenario where the algorithm performs the maximum number of operations. For search operations this means the target element is not in the list or is at the last
+                     of the list.
+
+     
